@@ -1,0 +1,9 @@
+{
+
+    "dependencies": {
+        "eslint": "^8.31.0",
+        "phaser": "^3.55.2"
+    }
+
+}
+
